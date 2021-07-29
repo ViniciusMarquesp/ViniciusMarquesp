@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicius Marques
+### Hello! I'm Vinicius Marques
 ##
 <div>
   <a href="https://github.com/ViniciusMarquesp">
