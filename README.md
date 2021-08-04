@@ -1,5 +1,7 @@
 ### Olá, sou Vinicius <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">
-## Welcome!
+<a href="https://www.linkedin.com/in/vinicius-marques-aa61b1206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:viniciuscontatom@hotmail.com"> <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label=" target = "_ blank"> </a>
+
 <div>
  <a href="https://github.com/ViniciusMarquesp">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMarquesp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -13,9 +15,5 @@
 </div>
   
   ##
-  
-<div>
-  <a href="https://www.linkedin.com/in/vinicius-marques-aa61b1206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div>
   
   ![Snake animation](https://github.com/ViniciusMarquesp/ViniciusMarquesp/blob/output/github-contribution-grid-snake.svg)
