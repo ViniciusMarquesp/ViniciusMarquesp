@@ -4,6 +4,8 @@ Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https:linkedin.com/in/vinicius-marquesp/)](https://www.linkedin.com/in/vinicius-marquesp/)
 
+---
+
 <div>
  <a href="https://github.com/ViniciusMarquesp">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMarquesp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
