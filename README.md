@@ -20,6 +20,7 @@
   <img align="center" alt="Vini-HTML5" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Vini-CSS3" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Vini-Git" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Vini-Git" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
   
   ##
