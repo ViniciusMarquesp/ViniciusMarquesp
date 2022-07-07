@@ -1,6 +1,6 @@
 ### Olá, sou Vinicius 👋 🤗
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vinicius-marques-pacheco-a3689b18b/)]([https://www.linkedin.com/in/jo%C3%A3o-vinicius-marques-pacheco-a3689b18b/](https://www.linkedin.com/in/vinicius-marquesp/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https:linkedin.com/in/vinicius-marquesp/)]
 
 <a href="https://www.linkedin.com/in/vinicius-marquesp/" target="_blank"> <img src = <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank"> </a> 
 <a href = "mailto:viniciuscontatom@hotmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
