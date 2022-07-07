@@ -2,10 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https:linkedin.com/in/vinicius-marquesp/)](https://www.linkedin.com/in/vinicius-marquesp/)
 
-<a href="https://www.linkedin.com/in/vinicius-marquesp/" target="_blank"> <img src = <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blank"> </a> 
-<a href = "mailto:viniciuscontatom@hotmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-
-
 <div>
  <a href="https://github.com/ViniciusMarquesp">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMarquesp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
