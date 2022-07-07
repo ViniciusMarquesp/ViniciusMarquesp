@@ -1,6 +1,6 @@
 ### Olá, sou Vinicius 👋 🤗
 
-# Contato
+Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https:linkedin.com/in/vinicius-marquesp/)](https://www.linkedin.com/in/vinicius-marquesp/)
 
